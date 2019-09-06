@@ -1,4 +1,6 @@
 *.db
-files/input/
-file/output/
+files/input/*
+file/output/*
+
+
 
